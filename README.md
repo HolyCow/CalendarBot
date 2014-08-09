@@ -2,7 +2,7 @@
 
 !schedule - gets the next 10 events from the Google calendar
 
-Automatically announces next even 10 minutes before
+Automatically announces next event 10 minutes before
 
 ## Environment variables
 
