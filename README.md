@@ -1,6 +1,11 @@
-Funbot
-=======
+## CalendarBot
 
-Offshoot of Showbot
+!schedule - gets the next 10 events from the Google calendar
 
-Says dumb things in a chatroom.
+Automatically announces next even 10 minutes before
+
+## Environment variables
+
+* calendarid - Id for the Google calendar
+* botname - name of the bot
+* channel - channel to join
